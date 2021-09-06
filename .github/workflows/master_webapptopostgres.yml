@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'webapptopostgres'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_db3245f5c2904fd588b9624d385992c6 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_54b671387daa4c67947b9ca261bd75b2 }}
